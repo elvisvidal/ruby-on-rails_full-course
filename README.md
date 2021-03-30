@@ -1,4 +1,6 @@
-# README
+# Learn Ruby on Rails - Full Course
+
+ Following the course on [Youtube](https://www.youtube.com/watch?v=fmyvWz5TUWg&t=321s&ab_channel=freeCodeCamp.org).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
