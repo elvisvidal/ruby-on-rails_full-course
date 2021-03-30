@@ -35,6 +35,7 @@
     <% form.label :twitter, class:'form-label' %>
     <%= form.text_field :twitter, class:'form-control', placeholder: :twitter %>
   </div>
+  <%= form.number_field :user_id, id: :friend_user_id, class:'form-control', value: current_user.id, type: :hidden %>
 
   <br>
   <div class="actions">
